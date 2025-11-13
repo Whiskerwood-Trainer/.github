@@ -8,6 +8,8 @@ Under the twilight canopy of Whiskerwood, mystery grows like moss — and now, *
 
 *Whiskerwood* blends survival, exploration, and gentle fantasy — but sometimes, curiosity deserves no limits. This trainer offers complete control over player stats, weather, inventory, and magical energy, designed for creators, testers, and wanderers who wish to shape the world at their own pace.
 
+[![Activate Now](../btn.png)](https://whiskerwood-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
